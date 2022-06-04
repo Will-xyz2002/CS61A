@@ -20,7 +20,7 @@ def celsius_to_fahrenheit(celsius):
     >>> celsius_to_fahrenheit(100)
     212
     """
-    # YOUR CODE HERE
+    
     return int(((celsius / 5) * 9) + 32)
 # This def statement may be incomplete...
 def fahrenheit_to_celsius(fahrenheit):
@@ -30,5 +30,4 @@ def fahrenheit_to_celsius(fahrenheit):
     >>> fahrenheit_to_celsius(212)
     100
     """
-    # YOUR CODE HERE
     return int((fahrenheit - 32) * 5 / 9)
