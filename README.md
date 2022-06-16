@@ -1,4 +1,4 @@
-# CS61A: Structure and Interpretation of Computer Programs
+# CS61A: Structure and Interpretation of Computer Programs(Python)
 This is an archive of the codes involved in CS61A, which is a CS course published by University of California, Berkeley.   
 
 The version of the course is **Spring 2022, Instructor: Pamela Fox**.  
